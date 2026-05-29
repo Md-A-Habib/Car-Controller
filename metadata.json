@@ -1,0 +1,6 @@
+{
+  "name": "ESP Car Controller",
+  "description": "Remote controller for ESP32-based RC cars over Wi-Fi network using WebSockets and HTTP commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
